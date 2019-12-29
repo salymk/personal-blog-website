@@ -29,7 +29,6 @@ a {
 }
 
 .name {
-  text-align: center;
   margin: 0 auto;
   padding: 10px;
 }
@@ -40,6 +39,9 @@ a {
   text-transform: uppercase;
 }
 
-.nav-conainer {
-
+.main-nav {
+  width: 217px;
+  border: none;
+  color: grey;
+  font-size: large;
 }
