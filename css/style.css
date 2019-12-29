@@ -74,6 +74,10 @@ button {
   border-radius: 5px 5px 0 0;
 }
 
-.container {
+.card-content {
   padding: 2px 16px;
+}
+
+.card-title {
+  margin: 0;
 }
