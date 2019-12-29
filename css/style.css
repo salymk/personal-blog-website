@@ -1,1 +1,7 @@
 
+/* Header Styles */
+.main-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
