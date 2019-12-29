@@ -1,3 +1,17 @@
+/* =================================
+  Base Element Styles
+==================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+  font-family: 'Varela Round', sans-serif;
+
+}
+
 
 /* Header Styles */
 .main-header {
