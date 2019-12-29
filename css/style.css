@@ -89,3 +89,14 @@ button {
   padding: 16px 24px;
   position: relative;
 }
+
+.action-btn {
+  font-size: 1em;
+  color: #424242 ;
+  text-transform: uppercase;
+  transition: color 0.3s ease;
+}
+
+.action-btn:hover {
+  color: #ffab40;
+}
