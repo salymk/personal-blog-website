@@ -14,9 +14,12 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
+/* =================================
+  Nav Styles
+==================================== */
 
 /* Header Styles */
 .main-header {
@@ -28,6 +31,15 @@ a {
 .name {
   text-align: center;
   margin: 0 auto;
-  background: blanchedalmond;
-  color: white;
+}
+
+.main-title {
+  font-size: 40px;
+  font-family: Cabin, Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+
+}
+
+.nav-conainer {
+
 }
