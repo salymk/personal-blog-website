@@ -17,6 +17,13 @@ a {
   color: black;
 }
 
+textarea,
+select,
+input,
+button {
+  outline: none;
+}
+
 /* =================================
   Nav Styles
 ==================================== */
