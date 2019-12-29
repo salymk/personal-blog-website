@@ -23,21 +23,21 @@ a {
 
 /* Header Styles */
 .main-header {
-  /* display: flex;
+  display: flex;
   flex-direction: column;
-  justify-content: center; */
+  align-items: center;
 }
 
 .name {
   text-align: center;
   margin: 0 auto;
+  padding: 10px;
 }
 
 .main-title {
   font-size: 40px;
-  font-family: Cabin, Helvetica, Arial, sans-serif;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-
 }
 
 .nav-conainer {
