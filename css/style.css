@@ -178,3 +178,9 @@ button {
 .footer-links {
   margin-top: 5px;
 }
+
+.footer-copyright {
+  text-align: center;
+  background: #f5f5f5;
+  padding: .5em;
+}
