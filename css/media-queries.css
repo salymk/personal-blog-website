@@ -60,4 +60,17 @@
   .card-title {
     font-size: larger;
   }
+
+  /* Newsletter Section */
+  .signup-header {
+    font-size: 3em;
+  }
+
+  .email {
+    display: flex;
+  }
+
+  #email {
+    width: 190%;
+  }
 }
