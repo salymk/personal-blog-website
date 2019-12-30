@@ -1,33 +1,4 @@
-/* =================================
-  Base Element Styles
-==================================== */
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  line-height: 1.6;
-  font-family: 'Varela Round', sans-serif;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-  cursor: pointer;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #ffab40;
-}
-
-textarea,
-select,
-input,
-button {
-  outline: none;
-}
+@import "base.css";
 
 /* =================================
   Nav Styles
