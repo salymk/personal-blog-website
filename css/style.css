@@ -162,3 +162,11 @@ button {
 .footer-container {
   padding: 1em;
 }
+
+.footer-title {
+  margin-bottom: 0;
+}
+
+.footer-about {
+  margin-top: 5px;
+}
