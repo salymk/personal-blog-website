@@ -2,37 +2,4 @@
 @import "header.css";
 @import "main.css";
 @import "newsletter.css";
-
-/* =================================
-  Footer Styles
-==================================== */
-.page-footer {
-  background: #fafafa;
-}
-
-.footer-container {
-  padding: 1em;
-}
-
-.footer-title {
-  margin-bottom: 0;
-}
-
-.footer-about {
-  margin-top: 5px;
-}
-
-.footer-social-title {
-  margin-bottom: 0;
-}
-
-.footer-links {
-  margin-top: 5px;
-}
-
-.footer-copyright {
-  text-align: center;
-  background: #f5f5f5;
-  padding: .5em;
-  font-size: 14px;
-}
+@import "footer.css";
