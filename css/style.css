@@ -106,6 +106,10 @@ button {
   Newsletter Styles
 ==================================== */
 
+.signup-header {
+  text-align: center;
+}
+
 #email {
   background-color: #f4f7f8;
   border: 3px solid white;
@@ -125,10 +129,12 @@ button {
   border: 1px solid white;
   width: -webkit-fill-available;
   box-shadow: inset 0 1px 0 rgba(0,0,0,0.03);
+  transition: background 0.3s ease;
+  text-transform: uppercase;
 }
 
 .signup-btn:hover {
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  background: #ff9100;
 }
 
 /* @media (min-width: 768px) {
