@@ -127,4 +127,30 @@
     margin: auto;
     padding: 25px;
   }
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .signup-form {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .signup-form p {
+    text-align: left;
+    width: 350px;
+  }
+
+  .email {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  #email {
+    width: 100%;
+  }
 }
