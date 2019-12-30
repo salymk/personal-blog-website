@@ -66,6 +66,10 @@
     font-size: 3em;
   }
 
+  .signup-form p {
+    font-size: 1.4em;
+  }
+
   .email {
     display: flex;
   }
