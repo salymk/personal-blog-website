@@ -112,5 +112,19 @@
     margin: 0 14px 0 0;
   }
 
+}
 
+@media (min-width: 1000px) {
+  .blog {
+    padding: 150px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .about-text {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+  }
 }
