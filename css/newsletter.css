@@ -1,0 +1,35 @@
+/* =================================
+  Newsletter Styles
+==================================== */
+
+.signup-header {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#email {
+  background-color: #f4f7f8;
+  border: 3px solid white;
+  border-radius: 5px;
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  box-shadow: inset 0 1px 0 rgba(0,0,0,0.03);
+}
+
+.signup-btn {
+  padding: 10px;
+  background: #ffab40;
+  color: white;
+  font-size: 1.2em;
+  border-radius: 5px;
+  border: 1px solid white;
+  width: -webkit-fill-available;
+  box-shadow: inset 0 1px 0 rgba(0,0,0,0.03);
+  transition: background 0.3s ease;
+  text-transform: uppercase;
+}
+
+.signup-btn:hover {
+  background: #ff9100;
+}
