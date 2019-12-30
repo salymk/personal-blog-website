@@ -29,6 +29,14 @@
   margin-top: 10px;
 }
 
-/* .nav-desktop {
-  display: none;
-} */
+.nav-desktop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin: 5px; */
+}
+
+.nav-desktop li {
+  text-transform: uppercase;
+  font-size: 18px;
+}
