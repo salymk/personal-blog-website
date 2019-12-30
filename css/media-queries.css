@@ -83,4 +83,11 @@
   #email {
     width: 190%;
   }
+
+  /* Newsletter Section */
+  .footer-title,
+  .footer-social-title {
+    font-size: 1.7em;
+  }
+
 }
