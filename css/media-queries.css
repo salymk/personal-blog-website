@@ -157,4 +157,9 @@
   .signup-btn {
     width: 120%;
   }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+  }
 }
