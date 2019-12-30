@@ -1,8 +1,24 @@
 
+/* =================================
+  Media Quiries
+==================================== */
+@media (min-width: 600px) {
+  .about {
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  /* Header */
+  .main-title {
+    font-size: 50px;
+  }
+}
+
+
+
 
 @media (min-width: 768px) and (max-width: 900px) {
   /* Header */
-
   .main-title {
     font-size: 60px;
   }
@@ -25,7 +41,6 @@
 
   /* Main Content */
   .about {
-    text-align: center;
     font-size: 1.5em;
   }
 
