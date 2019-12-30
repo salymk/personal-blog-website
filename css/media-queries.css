@@ -151,6 +151,10 @@
   }
 
   #email {
-    width: 100%;
+    width: 120%;
+  }
+
+  .signup-btn {
+    width: 120%;
   }
 }
