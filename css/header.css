@@ -28,3 +28,7 @@
   font-size: large;
   margin-top: 10px;
 }
+
+.nav-desktop {
+  display: none;
+}
