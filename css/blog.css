@@ -19,3 +19,13 @@
   padding: 10px;
   font-size: .8em;
 }
+
+.author-text {
+  margin-left: 10px;
+}
+
+.author-name,
+.date-published {
+  margin: 0;
+  align-self: flex-end;
+}
