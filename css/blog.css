@@ -36,6 +36,12 @@
 }
 
 /* Social Sharing */
+
+.social-sharing {
+  margin-top: 50px;
+
+}
+
 .social-title {
   text-transform: capitalize;
   font-size: 1em;
