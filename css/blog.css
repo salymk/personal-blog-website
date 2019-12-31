@@ -2,7 +2,8 @@
   Base Element Styles
 ==================================== */
 .blog-title {
-  font-size: 1.4em;
+  font-size: 1.2em;
+  text-transform: capitalize;
 }
 
 .author-photo {
