@@ -30,3 +30,7 @@
   margin: 0;
   align-self: flex-end;
 }
+
+.garyvee-book-link {
+  color: orange;
+}
