@@ -43,3 +43,8 @@ border: 0;
 box-shadow: 0;
 display: inline;
 }
+
+.social-title {
+  text-transform: capitalize;
+  font-size: 1em;
+}
