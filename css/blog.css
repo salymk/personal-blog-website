@@ -36,15 +36,16 @@
 }
 
 /* Social Sharing */
+.social-title {
+  text-transform: capitalize;
+  font-size: 1em;
+  margin-left: 5px;
+}
+
 .share-buttons img {
 width: 50px;
 padding: 5px;
 border: 0;
 box-shadow: 0;
 display: inline;
-}
-
-.social-title {
-  text-transform: capitalize;
-  font-size: 1em;
 }
