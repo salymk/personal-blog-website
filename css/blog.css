@@ -55,3 +55,34 @@ border: 0;
 box-shadow: 0;
 display: inline;
 }
+
+
+/* Author Card */
+
+.author-container {
+  padding: 1em;
+}
+
+.author-card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.author-card:hover {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.author-card-photo {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.author-card-content {
+  padding: 2px 16px;
+}
+
+.author-card-name {
+  margin: 0;
+}
