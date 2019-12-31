@@ -34,3 +34,12 @@
 .garyvee-book-link {
   color: orange;
 }
+
+/* Social Sharing */
+.share-buttons img {
+width: 50px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
