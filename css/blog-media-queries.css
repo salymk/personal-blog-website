@@ -23,4 +23,8 @@
   .social-title {
     font-size: 1.5em;
   }
+
+  .share-buttons img {
+    width: 70px;
+  }
 }
