@@ -30,5 +30,16 @@
 }
 
 @media (min-width: 1000px) {
+  .main-blog-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    grid-gap: 10px;
+    padding: 1em;
+  }
 
+  .social-sharing {
+    margin-top: 0;
+    text-align: center;
+  }
 }
