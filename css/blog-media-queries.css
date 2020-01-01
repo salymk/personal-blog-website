@@ -2,4 +2,12 @@
   .blog-title {
     font-size: 2em;
   }
+
+  .blog-post {
+    font-size: 1.3em;
+  }
+
+  .author-text {
+    font-size: 1.1em;
+  }
 }
