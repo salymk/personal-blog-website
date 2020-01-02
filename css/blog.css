@@ -94,3 +94,12 @@
 .author-card-name {
   margin: 0;
 }
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-size: .8em;
+  margin-left: 5px;
+}
